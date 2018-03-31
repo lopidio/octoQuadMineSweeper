@@ -5,5 +5,5 @@ Irregular pieces minesweeper game to have my own minesweeper and start using SFM
 As as minesweeper huge fan, I couldn't help writing my own game, don't you think?
 
 
-###To compile it
+### To compile it
 sudo apt-get install liballegro4
